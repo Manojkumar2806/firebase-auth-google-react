@@ -6,7 +6,7 @@ A modern authentication system built with **React**, **Firebase**, and **Google 
 
 ---
 
-## 📸 Screenshots
+## 📸 UI Components
 
 | Login Page | Google Sign-In | Dashboard |
 |------------|----------------|-----------|
