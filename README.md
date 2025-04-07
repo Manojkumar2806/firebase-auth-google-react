@@ -2,7 +2,7 @@
 
 A modern authentication system built with **React**, **Firebase**, and **Google OAuth**. This project demonstrates how to create a secure, scalable auth system with **Email/Password** login, **Google Sign-In**, **Firestore integration**, protected routes, and **dynamic toast notifications** using React Toastify.
 
-> 🚀 Live Demo: [firebase-auth-google-react.vercel.app](firebase-auth-google-react.vercel.app)
+> 🚀 Live Demo: [firebase-auth-google-react.vercel.app](https://firebase-auth-google-react.vercel.app/)
 
 ---
 
